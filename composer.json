@@ -1,7 +1,7 @@
 {
     "name": "faustbrian/snipplr-php-client",
     "description": "A Snipplr Client for PHP",
-    "keywords": ["api", "faustbrian", "faustbrian-snipplr", "snipplr", "Brian Faust", "faustbrian"],
+    "keywords": ["api", "snipplr", "Brian Faust", "faustbrian"],
     "license": "MIT",
     "authors": [{
         "name": "Brian Faust",
